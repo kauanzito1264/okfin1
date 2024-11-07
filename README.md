@@ -1,2 +1,2 @@
 # okfin1
- teste
+ clone o repositorio 
