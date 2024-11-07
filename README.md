@@ -1,4 +1,4 @@
-##Jogo "Okfin"
+## Jogo "Okfin"
 *Teclas* WASD para movimento
 Instruções para jogar:
 Clone o repositorio em seu computador e acesse usando o Godot (Baixe na Steam a Engine)
