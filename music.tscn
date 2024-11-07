@@ -1,0 +1,7 @@
+[gd_scene load_steps=2 format=3 uid="uid://cd8ofqor8ugi"]
+
+[ext_resource type="AudioStream" uid="uid://8ielroicvu2w" path="res://terrain/assets/base_terrain/thema.mp3" id="1_vhu1a"]
+
+[node name="AudioStreamPlayer" type="AudioStreamPlayer"]
+stream = ExtResource("1_vhu1a")
+autoplay = true
